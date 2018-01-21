@@ -8,8 +8,8 @@ UPDATES
 Finally  we are ready to roll . Waiting for dns updates
 
 
-* TestNet December 21,2017
-* Mainnet December 23,2018
+* TestNet January 8,2018
+* Mainnet January 23,2018
 
 
 Mining
